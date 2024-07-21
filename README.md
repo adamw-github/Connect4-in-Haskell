@@ -1,7 +1,7 @@
 # Connect4 - Haskell
 
 ### GUI & Text Version
-<img title="GUI" alt="Haskell Connect4 GUI" src="/gui.png" width ="40%"> | <img title="text" alt="Haskell Connect4 Text" src="/textual.png" width ="40%">
+<img title="GUI" alt="Haskell Connect4 GUI" src="/readme/gui.png" width ="40%">  <img title="text" alt="Haskell Connect4 Text" src="/readme/textual.png" width ="40%">
 
 
 ## Run the game using the Haskell Tool Stack:
