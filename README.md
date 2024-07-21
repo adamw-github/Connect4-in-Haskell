@@ -4,7 +4,7 @@
 
 ## From the main directory, run:
 
-**$ stack run -- <args>**
+**$ stack run -- `<args>`**
 
 ### Available arguments are:
 
